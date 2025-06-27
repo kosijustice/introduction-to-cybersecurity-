@@ -7,6 +7,7 @@ process
 technology
 
 ## CIA tried
+### DAD Tried 
 1. confidentiality
 2. intergrity 
 3. Avalebility 
