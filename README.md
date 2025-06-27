@@ -11,3 +11,6 @@ technology
 1. confidentiality
 2. intergrity 
 3. Avalebility 
+
+see below the report
+[cyber security report](https://github.com/kosijustice/introduction-to-cybersecurity-/blob/main/receipt%20(1).txt)
