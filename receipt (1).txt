@@ -1,48 +1,75 @@
-Dear Customer,
+Introduction to Cybersecurity
 
+A Stepwise Report for Foundational Understanding
 
-Thanks for choosing ResumeGenius.
+1. Executive Summary
 
-LETS GET STARTED!
+Cybersecurity has become one of the most critical fields in today’s digital era, where individuals, businesses, and governments rely heavily on technology. The rapid growth of cyber threats—including ransomware, phishing, data breaches, and nation-state attacks—requires a robust understanding of cybersecurity fundamentals. This report introduces cybersecurity in a structured, stepwise manner to establish baseline knowledge for professionals, organizations, and learners.
 
-Login into your account here: https://resumegenius.com/dashboard/app/account/login
+2. Scope of Cybersecurity
 
+Cybersecurity encompasses the practices, technologies, and processes designed to protect digital assets, networks, and systems from unauthorized access, disruption, or destruction. Its scope includes:
 
-ORDER SUMMARY
+Information Security – Protecting confidentiality, integrity, and availability of data.
 
-Item: 14 Day Trial Subscription
-Total: $2.95
+Network Security – Safeguarding communication channels and infrastructure.
 
+Application Security – Ensuring software and platforms are free from vulnerabilities.
 
+Cloud Security – Protecting data stored and processed in cloud environments.
 
-Name on Card: justice c Alucho
-Expiration Date: 4/2028
-Charged On: visa ending with 0083
+Operational Security (OpSec) – Managing day-to-day processes to reduce risks.
 
+Critical Infrastructure Protection – Securing essential services like energy, health, and finance.
 
-MY ACCOUNT
+3. Threat Landscape
 
-Your trial subscription to ResumeGenius lasts for 14 days. If you do not want to continue with the four weeks plan with ResumeGenius, it is important to cancel your trial before the subscription ends and you won’t be charged. Otherwise, you will be billed starting  for $23.95 billed every 4 weeks for the service as long as your account is open.
+The cybersecurity threat environment evolves continuously, with adversaries ranging from individual hackers to organized criminal groups and nation-states. Common threats include:
 
-For your convenience, you can make modifications to your subscription online without contacting customer service.
-Simply login to your account (https://resumegenius.com/dashboard/app/account/login) and click on the “My Account” link located in the
-upper right hand menu.  From there, you can modify your subscription, change your billing information,
-and opt-out of our periodic email distribution list.
+Malware & Ransomware – Malicious software designed to disrupt or extort.
 
+Phishing & Social Engineering – Exploiting human psychology for unauthorized access.
 
-CONTACTING US
+Insider Threats – Risks posed by employees, contractors, or trusted partners.
 
-If you have any billing or technical questions please call us at (866) 215-9048, email us at
-support@resumegenius.com or go to resumegenius.com
-and we are available for live chat during normal business hours, Monday to Friday, 8AM - 12AM (Midnight) EDT. Thank you for your business!
+Distributed Denial of Service (DDoS) – Overloading systems to disrupt services.
 
+Zero-Day Exploits – Attacks leveraging unknown software vulnerabilities.
 
-Sincerely,
-The ResumeGenius Family.
+Advanced Persistent Threats (APTs) – Long-term, sophisticated cyber espionage campaigns.
 
-Please note some exchange and/or bank fees may apply. These fees are not imposed by us but are imposed by 
-financial institutions. They usually don't exceed 3% of the transaction and may include, but are not limited 
-to, foreign exchange fees (even when transacting on local currency). Please contact your financial institution 
-if you are subject to any such fees.
+4. Core Elements of Cybersecurity
 
-            Sonaga Tech Limited, Hamilton, Luzern Branch, a branch of Sonaga Tech Limited
+Cybersecurity can be understood through its core elements:
+
+Confidentiality – Ensuring sensitive information is only accessible to authorized users.
+
+Integrity – Protecting data from unauthorized modification or corruption.
+
+Availability – Guaranteeing reliable access to systems and data when needed.
+
+Authentication – Verifying identities of users and devices.
+
+Non-repudiation – Ensuring actions or communications cannot be denied later.
+
+5. Essential Cybersecurity Practices
+
+To build a strong security posture, organizations and individuals should adopt the following best practices:
+
+Risk Assessment & Management – Identifying and mitigating vulnerabilities.
+
+Access Control & Identity Management – Applying the principle of least privilege.
+
+Network Defense – Using firewalls, intrusion detection/prevention, and segmentation.
+
+Incident Response Planning – Preparing for, detecting, and recovering from attacks.
+
+Security Awareness Training – Educating users about phishing and safe practices.
+
+Encryption – Protecting data in transit and at rest.
+
+Compliance & Governance – Adhering to standards such as GDPR, HIPAA, ISO 27001, NIST.
+
+6. Conclusion
+
+Cybersecurity is not just a technical requirement but a strategic business enabler. As digital transformation accelerates, organizations must prioritize cybersecurity resilience. A layered, proactive approach—combining technology, people, and processes—remains the cornerstone of effective defense
